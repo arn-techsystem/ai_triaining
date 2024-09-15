@@ -1,0 +1,2 @@
+# ai_triaining
+AI TRAINING MACHINE LEARNING
